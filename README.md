@@ -1,2 +1,1 @@
-# heartdoc.github.io
-heartdoc website
+https://lumoz.netlify.app/
